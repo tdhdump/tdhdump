@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there ![waving-wave-unscreen-smaller](https://github.com/BrendaMollaret/BrendaMollaret/assets/89263107/c7b282a3-aa38-45f5-952c-7a9d11f551f7)
+
+
 ## I'm Brenda!
 
 - 🌱 I’m currently learning React with TypeScript.
