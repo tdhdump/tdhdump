@@ -35,8 +35,8 @@
 - I have hands-on experience building bots using a platform that allows creating various services for making calls and automating tasks.
 - I’m also collaborating on the development of a bot for my university that uses OpenAI’s API to provide real-time, accurate information. The bot helps students by offering key details such as class schedules, exam dates, and all relevant information related to the university.
 
-### Teaching program
-- I also teach **Backend Development** using the **MERN stack** (MongoDB, Express, React, Node).
+### Teaching Program
+- I am part of a team teaching Backend Development using the MERN stack (MongoDB, Express, React, Node) as part of a structured educational program.
 
 ## 🌱 I’m currently learning:
 - Kubernetes and container orchestration with Docker.
